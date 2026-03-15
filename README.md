@@ -2,13 +2,14 @@
 
 Meu objetivo é me tornar um desenvolvedor de jogos 🎮. 
 
-Atualmente, estou cursando o ensino médio integrado à Informática no Instituto Federal - Campus de Hortolândia.
+Atualmente estou me preparando e estudando para entrar na Univesp para fazer bacharel em Inteligência Artificial por 4 anos.
 
-Nesse primeiro ano, estou imerso em matérias fundamentais. Estudo disciplinas como redes, organização de computadores, programação web, algoritmos e programação Java.
+Essa escolha vai da necessidade do mercado por pessoas que saibam mexer com IA e também de minha necessidade de ter uma maior flexibilização.
 
-Além do aprendizado formal, estou sempre em busca de conhecimento extra, realizando cursos voltados para a área de desenvolvimento, para aprimorar minhas habilidades e expandir meus conhecimentos.
+Mesmo não estando em uma faculdade no momento, mantenho meus estudos em programação para eu ser um bom desenvolvedor.
 
-Aqui, compartilharei um pouco do meu dia a dia de estudos, mostrando meu progresso e as descobertas que faço ao longo dessa jornada.
+Logo mais ou logo menos estarei enviando projetos e códigos realizados na faculdade ou nos meus cursos para aprimorar meu portifólio ou até mesmo destacar os
+principais projetos feitos durante meu técnico de informática integrado ao Ensino Médio
 
  <div>  
   <a href="https://github.com/yuriRLombardi">
