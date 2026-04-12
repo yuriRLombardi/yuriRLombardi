@@ -16,21 +16,22 @@ Mesmo antes de iniciar a graduação, mantenho uma rotina constante de estudos e
 
 ## 🛠️ Tecnologias que já tive contato:
 
-* JavaScript
-* Java (JSP e Hibernate)
-* PHP (PDO)
-* Kotlin
-* Banco de dados SQL
-* HTML e CSS
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
+![MySQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 
 ---
 
 ## 📚 Atualmente estudando / interesse em:
 
-* Node.js
-* React
-* Python
-* Inteligência Artificial
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/-Inteligência%20Artificial-000?style=for-the-badge&logo=openai)
 
 ---
 
