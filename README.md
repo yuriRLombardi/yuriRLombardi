@@ -38,8 +38,8 @@ Mesmo antes de iniciar a graduação, mantenho uma rotina constante de estudos e
 📈 Sempre buscando evoluir e aprender novas tecnologias.
 
 
- <div>  
+<div>  
   <a href="https://github.com/yuriRLombardi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriRLombardi&show_icons=true&count_private=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriRLombardi&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriRLombardi&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=3600"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriRLombardi&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
 </div>
