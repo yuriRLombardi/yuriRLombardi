@@ -35,7 +35,7 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na r
 
 ## 📌 Projetos em destaque
 
-- **[Recoloca IA](https://github.com/yuriRLombardi)** — sistema multiagente de IA generativa usando OpenRouter e Firecrawl
+- **[Recoloca IA](https://github.com/yuriRLombardi/Recoloca-IA)** — sistema multiagente de IA generativa usando OpenRouter e Firecrawl
 - **[Cafeteria System](https://github.com/yuriRLombardi/Cafeteria-System)** — sistema Java/Servlets/JSP/JPA/Hibernate/MySQL, projeto em grupo no IFSP
 - **[Mist](https://github.com/yuriRLombardi/Mist)** — app Android em Kotlin/Jetpack Compose (MVVM, Room, Retrofit) com backend em Python/Flask
 - **[Fundo Mágico](https://github.com/yuriRLombardi/Fundo-Magico)** — integração n8n + Google Gemini para geração dinâmica de HTML/CSS
