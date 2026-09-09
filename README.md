@@ -1,57 +1,65 @@
-# 👋 Olá, eu sou o Yuri!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Yuri%20Rodrigues%20Lombardi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Java%20%C2%B7%20PHP%20%C2%B7%20Kotlin%20%C2%B7%20IA&descSize=16&descAlignY=55" />
+</p>
 
-💻 Técnico em Informática formado pelo Instituto Federal de São Paulo (IFSP)<br>
-🎓 Cursando Bacharelado em Inteligência Artificial pela UNIVESP (desde jun/2026)<br>
-🚀 Desenvolvedor júnior com foco em aplicações web, sistemas com banco de dados e inteligência artificial<br>
+💻 Técnico em Informática formado pelo Instituto Federal de São Paulo (IFSP) — concluído em dez/2025<br>
+🎓 Cursando Bacharelado em Inteligência Artificial pela UNIVESP (conclusão prevista: jun/2030)<br>
+🚀 Desenvolvedor em formação, com foco em back-end, modelagem de dados e automações com IA generativa<br>
 
-Tenho experiência prática no desenvolvimento de sistemas com Java, PHP, JavaScript e MySQL, aplicando arquitetura MVC, autenticação de usuários, integração entre front-end e back-end, e operações CRUD completas. Também desenvolvo com Kotlin/Jetpack Compose e automações com n8n integradas a IA generativa.
+Tenho prática em desenvolvimento back-end com Java (Servlets, JSP, JPA/Hibernate) e PHP (PDO), modelagem de banco de dados relacional com definição de chaves estrangeiras e constraints de integridade, além de front-end com HTML5, CSS3 e JavaScript. Também desenvolvo apps Android com Kotlin/Jetpack Compose e Room, e automações de IA integrando n8n com a API do Google Gemini. Em projetos individuais, já orquestrei modelos de IA com Python e LangChain, incluindo um agente com arquitetura RAG.
 
-Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na região de Campinas/SP.
+Busco minha primeira oportunidade como estagiário na área de desenvolvimento, em Campinas/SP e região, onde moro.
 
 ---
 
 ## 🛠️ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
-![MySQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,js,kotlin,python,mysql,html,css,git,androidstudio&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Principais competências
 
-- Desenvolvimento de aplicações web (front-end e back-end)
-- Integração com bancos de dados relacionais (MySQL)
-- Implementação de lógica de negócio e operações CRUD
-- Organização de sistemas utilizando arquitetura MVC
-- Persistência de dados em apps Android (Room) e consumo de APIs (Retrofit)
-- Versionamento de código com Git e GitHub
+- Back-end com Java (Servlets, JSP, JSTL, JPA/Hibernate) e PHP (PDO)
+- Modelagem de banco de dados relacional (chaves estrangeiras, constraints de integridade)
+- Arquitetura MVC e operações CRUD completas
+- Front-end com HTML5, CSS3 e JavaScript
+- Persistência de dados em apps Android com Room e consumo de APIs com Retrofit (MVVM)
+- Automação de workflows com n8n e integração de APIs REST/Webhooks
+- Tratamento de dados JSON e requisições assíncronas (fetch, async/await)
+- Integração com APIs de LLMs (Google Gemini) e orquestração de modelos com Python e LangChain
+- Prompt Engineering e desenvolvimento de agentes inteligentes
+- Versionamento de código com Git, GitHub e conhecimento em GitFlow
 
 ---
 
 ## 📌 Projetos em destaque
 
-- **[Recoloca IA](https://github.com/yuriRLombardi/Recoloca-IA)** — sistema multiagente de IA generativa usando OpenRouter e Firecrawl
-- **[Cafeteria System](https://github.com/yuriRLombardi/Cafeteria-System)** — sistema Java/Servlets/JSP/JPA/Hibernate/MySQL, projeto em grupo no IFSP
-- **[Mist](https://github.com/yuriRLombardi/Mist)** — app Android em Kotlin/Jetpack Compose (MVVM, Room, Retrofit) com backend em Python/Flask
-- **[Fundo Mágico](https://github.com/yuriRLombardi/Fundo-Magico)** — integração n8n + Google Gemini para geração dinâmica de HTML/CSS
+- **[Agente RAG UNIVESP](https://github.com/yuriRLombardi/Agente_Univesp)** — assistente virtual com arquitetura RAG (Python, LangChain, Google Gemini, ChromaDB, Streamlit), processando documentos oficiais indexados em chunks para respostas com base nas fontes
+- **[Recoloca IA](https://github.com/yuriRLombardi/Recoloca-IA)** — sistema multiagente para desenvolvimento de carreira, com 3 agentes (OpenRouter, Firecrawl, Engenharia de Prompt)
+- **[Mist](https://github.com/yuriRLombardi/Mist)** — catálogo de consoles em Android (Kotlin, Jetpack Compose, Room, Retrofit, MVVM) com backend em Python/Flask e MySQL — projeto em grupo no IFSP
+- **[Cafeteria System](https://github.com/yuriRLombardi/Cafeteria-System)** — back-end Java com Servlets, JSP, JPA/Hibernate e MySQL, arquitetura MVC — projeto em grupo no IFSP
+- **[Fundo Mágico](https://github.com/yuriRLombardi/Fundo-Magico)** — gerador de backgrounds com IA, integrando n8n e Google Gemini via APIs/Webhooks
 
 ---
 
-## 📈 Estatísticas
+## 📈 Atividade no GitHub
 
-<div>
-  <a href="https://github.com/yuriRLombardi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriRLombardi&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=3600"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriRLombardi&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriRLombardi&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-🔗 [LinkedIn](https://linkedin.com/in/yuri-rodrigues-lombardi) — aberto a oportunidades de estágio/júnior na região de Campinas/SP
+📧 yurirodrigueslombardi@gmail.com<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/yuri-rodrigues-lombardi) — aberto a oportunidades de estágio na área de desenvolvimento, em Campinas/SP e região
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" />
+</p>
