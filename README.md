@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Yuri%20Rodrigues%20Lombardi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Java%20%C2%B7%20PHP%20%C2%B7%20Kotlin%20%C2%B7%20IA&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Yuri%20Rodrigues%20Lombardi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20FullStack&descSize=16&descAlignY=55" />
 </p>
 
 💻 Técnico em Informática formado pelo Instituto Federal de São Paulo (IFSP) — concluído em dez/2025<br>
